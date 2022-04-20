@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Kumar Soni @zelfroster .
+- 👋 Hi, I’m Sumit Kumar Soni.
 - 👀 I’m interested in Linux, Cloud, DevOps and CyberSecurity.
 - 🌱 I’m currently learning Linux fundamentals.
 - 💞️ I’m looking to collaborate on Python and Web related projects.
