@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Cloud, DevOps and CyberSecurity.
 - 🌱 I’m currently learning Linux fundamentals.
 - 💞️ I’m looking to collaborate on Python and Web related projects.
-- 📫 You can reach me at Twitter [![](https://img.shields.io/badge/-@zelfroster-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/zelfroster)
+- 📫 You can reach me at Twitter [@zelfroster](https://twitter.com/zelfroster)
 
 <!---
 sumit-kumar-soni/sumit-kumar-soni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
