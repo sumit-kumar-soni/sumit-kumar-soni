@@ -4,8 +4,6 @@
 <img src="./rainbow-superthin.gif">
 <p>
 
-<br>
-
 <!--
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 -->
@@ -53,7 +51,7 @@
     <a href="https://twitter.com/zelfroster">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter">
     </a>
-    <a href="https://gmail.com/sumitkumarsoni123">
+    <a href="mailto:sumitkumarsoni123@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
 <p>
