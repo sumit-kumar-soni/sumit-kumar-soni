@@ -1,3 +1,4 @@
+![hello](./github profile.gif)
 - 👋 Hi, I’m Sumit Kumar Soni.
 - 👀 I’m interested in Linux, Cloud, DevOps and CyberSecurity.
 - 🌱 I’m currently learning Linux fundamentals.
