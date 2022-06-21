@@ -4,11 +4,15 @@
 <img src="./rainbow-superthin.gif">
 <p>
 
+<br>
+
+<!--
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+-->
 
 <h3>:large_blue_diamond: Languages and Tools</h3>
 
-<p align="center">
+<p align="center" style="padding: 20px">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript" alt="Javascript">
@@ -24,7 +28,9 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux">
 </p>
 
-
+<p align="center">
+<img src="./rainbow-superthin.gif">
+<p>
 
 <h3>:large_blue_diamond: Github Stats</h3>
 
@@ -36,6 +42,10 @@
     <a href="https://github.com/zelfroster">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=zelfroster&theme=radical" alt="stats">
     </a>
+<p>
+
+<p align="center">
+<img src="./rainbow-superthin.gif">
 <p>
 
 <h3>:large_blue_diamond: Reach Me</h3>
