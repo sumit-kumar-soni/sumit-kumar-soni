@@ -32,11 +32,14 @@
 
 <code style="margin-bottom: 0px">❄️ $ ping zelfroster</code>
 <p align="center">
+    <a href="mailto:sumitkumarsoni123@gmail.com">
+        <img src="./gmail.svg" alt="gmail">
+    </a>
     <a href="https://twitter.com/zelfroster">
         <img src="./twitter.svg" alt="twitter">
     </a>
-    <a href="mailto:sumitkumarsoni123@gmail.com">
-        <img src="./gmail.svg" alt="gmail">
+    <a href="https://discord.com/users/403350472636891156">
+        <img src="./discord.svg" alt="discord">
     </a>
 </p>
 
