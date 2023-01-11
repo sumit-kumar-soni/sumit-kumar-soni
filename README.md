@@ -2,16 +2,15 @@
 <img src="./zelfroster-github-banner.gif">
 
 <br>
-<br>
 
-<code>❄️  $ whoami</code>
+<code>❄️ $ whoami</code>
 
 <p align="center">
     I am a Frontend Developer with a love for Linux, Design and 
     pushing boundaries.
 </p>
 
-<code align="center">❄️  $ cat myskillset</code>
+<code align="center">❄️ $ cat skillset</code>
 
 <p align="center">
     <img src="./html5.svg" alt="html5">
@@ -31,7 +30,7 @@
     <img src="./archlinux.svg" alt="archlinux">
 </p>
 
-<code style="margin-bottom: 0px">❄️  $ ping zelfroster</code>
+<code style="margin-bottom: 0px">❄️ $ ping zelfroster</code>
 <p align="center">
     <a href="https://twitter.com/zelfroster">
         <img src="./twitter.svg" alt="twitter">
