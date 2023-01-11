@@ -40,9 +40,11 @@
     </a>
 </p>
 
+<!--
 <p align="center">
     <img src="./rainbow-superthin.gif">
 </p>
+-->
 
 <!-- If you are copying this then consider giving a star to this repo -->
 
