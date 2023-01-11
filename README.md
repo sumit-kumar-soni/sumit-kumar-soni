@@ -4,14 +4,14 @@
 <br>
 <br>
 
-<code>:snowflake: $ whoami</code>
+<code>❄️  $ whoami</code>
 
-<p>
-    :dizzy: I am a Frontend Developer with a love for Linux, Design and 
+<p align="center">
+    I am a Frontend Developer with a love for Linux, Design and 
     pushing boundaries.
 </p>
 
-<code align="center">:snowflake: $ cat myskillset</code>
+<code align="center">❄️  $ cat myskillset</code>
 
 <p align="center">
     <img src="./html5.svg" alt="html5">
@@ -31,7 +31,7 @@
     <img src="./archlinux.svg" alt="archlinux">
 </p>
 
-<code style="margin-bottom: 0px" class="ping">:snowflake: $ ping zelfroster</code>
+<code style="margin-bottom: 0px">❄️  $ ping zelfroster</code>
 <p align="center">
     <a href="https://twitter.com/zelfroster">
         <img src="./twitter.svg" alt="twitter">
@@ -45,7 +45,7 @@
     <img src="./rainbow-superthin.gif">
 </p>
 
-<!-- If you are copying this then star this repo -->
+<!-- If you are copying this then consider giving a star to this repo -->
 
 <!--
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
