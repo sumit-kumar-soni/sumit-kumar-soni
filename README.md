@@ -1,7 +1,5 @@
 <!-- ZELFROSTER's README -->
-<img src="./zelfroster-github-banner.gif">
-
-<br>
+<img src="./assets/gif/zelfroster-github-banner.gif">
 
 <code>❄️ $ whoami</code>
 
@@ -13,33 +11,33 @@
 <code align="center">❄️ $ cat skillset</code>
 
 <p align="center">
-    <img src="./html5.svg" alt="html5">
-    <img src="./css3.svg" alt="css3">
-    <img src="./javascript.svg" alt="javascript">
-    <img src="./typescript.svg" alt="typescript">
-    <img src="./tailwindcss.svg" alt="tailwindcss">
-    <img src="./react.svg" alt="react">
-    <img src="./nextjs.svg" alt="nextjs">
-    <img src="./gatsby.svg" alt="gatsby">
-    <img src="./graphql.svg" alt="graphql">
-    <img src="./firebase.svg" alt="firebase">
-    <img src="./figma.svg" alt="figma">
-    <img src="./git.svg" alt="git">
-    <img src="./github.svg" alt="github">
-    <img src="./vim.svg" alt="vim">
-    <img src="./archlinux.svg" alt="archlinux">
+    <img src="./assets/svg/html5.svg" alt="html5">
+    <img src="./assets/svg/css3.svg" alt="css3">
+    <img src="./assets/svg/javascript.svg" alt="javascript">
+    <img src="./assets/svg/typescript.svg" alt="typescript">
+    <img src="./assets/svg/tailwindcss.svg" alt="tailwindcss">
+    <img src="./assets/svg/react.svg" alt="react">
+    <img src="./assets/svg/nextjs.svg" alt="nextjs">
+    <img src="./assets/svg/gatsby.svg" alt="gatsby">
+    <img src="./assets/svg/graphql.svg" alt="graphql">
+    <img src="./assets/svg/firebase.svg" alt="firebase">
+    <img src="./assets/svg/figma.svg" alt="figma">
+    <img src="./assets/svg/git.svg" alt="git">
+    <img src="./assets/svg/github.svg" alt="github">
+    <img src="./assets/svg/vim.svg" alt="vim">
+    <img src="./assets/svg/archlinux.svg" alt="archlinux">
 </p>
 
 <code style="margin-bottom: 0px">❄️ $ ping zelfroster</code>
 <p align="center">
     <a href="mailto:sumitkumarsoni123@gmail.com">
-        <img src="./gmail.svg" alt="gmail">
+        <img src="./assets/svg/gmail.svg" alt="gmail">
     </a>
     <a href="https://twitter.com/zelfroster">
-        <img src="./twitter.svg" alt="twitter">
+        <img src="./assets/svg/twitter.svg" alt="twitter">
     </a>
     <a href="https://discord.com/users/403350472636891156">
-        <img src="./discord.svg" alt="discord">
+        <img src="./assets/svg/discord.svg" alt="discord">
     </a>
 </p>
 
