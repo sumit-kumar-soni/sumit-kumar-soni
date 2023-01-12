@@ -49,7 +49,7 @@
 </p>
 -->
 
-<!-- If you are copying this then consider giving a star to this repo -->
+<!-- If you like this then consider giving a star to this repo -->
 
 <!--
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
