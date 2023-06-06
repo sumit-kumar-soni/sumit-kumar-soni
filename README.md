@@ -1,5 +1,5 @@
 <!-- ZELFROSTER's README -->
-<img src="./assets/gif/zelfroster-github-banner.gif">
+<!-- <img src="./assets/gif/zelfroster-github-banner.gif"> -->
 
 <code>❄️ $ whoami</code>
 
