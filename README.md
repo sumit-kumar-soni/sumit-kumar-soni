@@ -1,11 +1,13 @@
 <!-- ZELFROSTER's README -->
 <!-- <img src="./assets/gif/zelfroster-github-banner.gif"> -->
+<h3 align="center">Hi ☃️ </h3>
+<p align="center">❄️ Head over to <a href="https://zelfroster.co" target="_blank">zelfroster.co</a> to know more about me ❄️</p>
 
+<!-- Old Cheesy Profile --
 <code>❄️ $ whoami</code>
 
 <p align="center">
-    I am a Frontend Developer with a love for Linux, Design and 
-    pushing boundaries.
+    A developer in development.
 </p>
 
 <code align="center">❄️ $ cat skillset</code>
@@ -14,12 +16,12 @@
     <img src="./assets/svg/html5.svg" alt="html5">
     <img src="./assets/svg/css3.svg" alt="css3">
     <img src="./assets/svg/javascript.svg" alt="javascript">
-    <!-- <img src="./assets/svg/typescript.svg" alt="typescript"> -->
+    <img src="./assets/svg/typescript.svg" alt="typescript">
     <img src="./assets/svg/tailwindcss.svg" alt="tailwindcss">
     <img src="./assets/svg/react.svg" alt="react">
     <img src="./assets/svg/nextjs.svg" alt="nextjs">
-    <!-- <img src="./assets/svg/gatsby.svg" alt="gatsby"> -->
-    <!-- <img src="./assets/svg/graphql.svg" alt="graphql"> -->
+    <img src="./assets/svg/gatsby.svg" alt="gatsby">
+    <img src="./assets/svg/graphql.svg" alt="graphql">
     <img src="./assets/svg/firebase.svg" alt="firebase">
     <img src="./assets/svg/figma.svg" alt="figma">
     <img src="./assets/svg/git.svg" alt="git">
@@ -41,14 +43,12 @@
     </a>
 </p>
 
-<!--
 <p align="center">
     <img src="./rainbow-superthin.gif">
 </p>
--->
 
-<!-- If you like this then consider giving a star to this repo -->
+If you like this then consider giving a star to this repo
 
-<!--
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
--->
+
+-- Old Cheesy Profile -->
