@@ -1,7 +1,7 @@
 <!-- ZELFROSTER's README -->
 <!-- <img src="./assets/gif/zelfroster-github-banner.gif"> -->
 <h3 align="center">Hi ☃️ </h3>
-<p align="center">❄️ Head over to <a href="https://zelfroster.com" target="_blank">zelfroster.co</a> to know more about me ❄️</p>
+<p align="center">❄️ Head over to <a href="https://zelfroster.com" target="_blank">zelfroster.com</a> to know more about me ❄️</p>
 
 <!-- Old Cheesy Profile --
 <code>❄️ $ whoami</code>
